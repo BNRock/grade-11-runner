@@ -1,0 +1,3 @@
+F:\ISC3\Assignment\A2\Runner\Runner\RunnerContent\obj\x86\Debug\RunnerContent.contentprojResolveAssemblyReference.cache
+D:\ISC3\Assignment\A2\Runner\Runner\RunnerContent\obj\x86\Debug\RunnerContent.contentprojResolveAssemblyReference.cache
+D:\ISC3\Assignment\A2\Runner\Runner\RunnerContent\obj\x86\Debug\RunnerContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+Content\Fonts\mainFont.xnb
+Content\Fonts\secondsFont.xnb
+Content\Images\Background\darkBackground.xnb
+Content\Images\Sprites\runSpritesheet.xnb
+Content\Images\Sprites\slideSpritesheet.xnb
+Content\Images\Sprites\jumpSpritesheet.xnb
+Content\Images\Sprites\spritesheet.xnb
+Content\Images\Sprites\zombieSpritesheet.xnb
+Content\Images\Sprites\birdSpritesheet.xnb
+Content\Images\Sprites\spikes.xnb
+Content\Images\Sprites\purpleCoinSpritesheet.xnb
+Content\Images\Sprites\redCoinSpritesheet.xnb
+Content\Images\Sprites\greenCoinSpritesheet.xnb
+Content\Fonts\titleFont.xnb
+Content\Images\Buttons\playButton.xnb
+Content\Images\Buttons\quitButton.xnb
